@@ -2,7 +2,7 @@ import math
 import requests
 import os
 
-class HW5:
+class PDB:
 
     def __init__(self, pdb):
             self.protein = pdb[:4]
@@ -271,7 +271,7 @@ class HW5:
 
 
 
-PDB = HW5('3UTSA')          # 1. Able to read the protein from local file and fetch it from online (8 points).
+PDB = PDB('3UTSA')          # 1. Able to read the protein from local file and fetch it from online (8 points).
 
 # print("")
 # PDB.Q2()                  # 2. Show the number of amino acids in the chain and how many are missing structural information.
