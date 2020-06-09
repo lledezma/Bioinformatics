@@ -37,13 +37,7 @@ class Test:
 			print("sequence is not valid")
 			return False
 		else:
-			n = len(sequence)
-			s = list(sequence)
-			for i in range(0,n):
-				if (s[i] == 'T'):
-					s[i] = 'U'	
-		sequence = "".join(s)
-		return sequence
+			return sequence.replace('T','U')
 
 	def translation(self,sequence): #QUESTION 4
 		F = ["UUU", "UUC"] 								#phenylalanie
@@ -152,5 +146,5 @@ test = Test()
 # print(test.validate("GCAGTCA"))			            				   #QUESTION 1
 # print(test.reverse("GCAGTCA"))                       					   #QUESTION 2
 # print(test.transcription("GCAGTCA"))                  				   #QUESTION 3
-print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))    #QUESTION 4
-test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
+# print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))  #QUESTION 4
+# test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
