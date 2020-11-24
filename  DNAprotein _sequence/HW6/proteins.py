@@ -1,6 +1,6 @@
 import math 
 
-class Test:
+class HW4:
 
 	def __init__(self):
 		print("")
@@ -37,7 +37,13 @@ class Test:
 			print("sequence is not valid")
 			return False
 		else:
-			return sequence.replace('T','U')
+			n = len(sequence)
+			s = list(sequence)
+			for i in range(0,n):
+				if (s[i] == 'T'):
+					s[i] = 'U'	
+		sequence = "".join(s)
+		return sequence
 
 	def translation(self,sequence): #QUESTION 4
 		F = ["UUU", "UUC"] 								#phenylalanie
@@ -117,11 +123,7 @@ class Test:
 			print("3rd frame:", "No amino acids found")
 		else:
 			print("3rd frame:", self.translation(sequence))
-
-
 		print("\n")
-
-
 		rsequence = self.reverse(rsequence)
 		print("REVERSE SEQUENCE")
 		if(self.translation(rsequence) == ""):
@@ -142,9 +144,9 @@ class Test:
 
 
 
-test = Test()
+test = HW4()
 # print(test.validate("GCAGTCA"))			            				   #QUESTION 1
 # print(test.reverse("GCAGTCA"))                       					   #QUESTION 2
 # print(test.transcription("GCAGTCA"))                  				   #QUESTION 3
-# print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))  #QUESTION 4
+# print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))                #QUESTION 4
 # test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
