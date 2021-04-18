@@ -1,0 +1,3382 @@
+{
+    "1A62A": [
+        {
+            "phi": 0,
+            "psi": 150.185,
+            "protein": "1A62",
+            "AANumber": "2",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -56.4521,
+            "psi": -47.661,
+            "protein": "1A62",
+            "AANumber": "3",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.0632,
+            "psi": -35.132,
+            "protein": "1A62",
+            "AANumber": "4",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.3002,
+            "psi": -47.195,
+            "protein": "1A62",
+            "AANumber": "5",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.3278,
+            "psi": -40.995,
+            "protein": "1A62",
+            "AANumber": "6",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.3919,
+            "psi": -28.988,
+            "protein": "1A62",
+            "AANumber": "7",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -93.9123,
+            "psi": 9.495,
+            "protein": "1A62",
+            "AANumber": "8",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -99.5969,
+            "psi": 135.113,
+            "protein": "1A62",
+            "AANumber": "9",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -57.5873,
+            "psi": 145.209,
+            "protein": "1A62",
+            "AANumber": "10",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -57.055,
+            "psi": -41.6,
+            "protein": "1A62",
+            "AANumber": "11",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.5576,
+            "psi": -33.214,
+            "protein": "1A62",
+            "AANumber": "12",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -73.6468,
+            "psi": -35.594,
+            "protein": "1A62",
+            "AANumber": "13",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -67.7636,
+            "psi": -37.638,
+            "protein": "1A62",
+            "AANumber": "14",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.7561,
+            "psi": -45.978,
+            "protein": "1A62",
+            "AANumber": "15",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.9706,
+            "psi": -51.457,
+            "protein": "1A62",
+            "AANumber": "16",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -55.7962,
+            "psi": -41.631,
+            "protein": "1A62",
+            "AANumber": "17",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -68.8312,
+            "psi": -42.442,
+            "protein": "1A62",
+            "AANumber": "18",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.2533,
+            "psi": -43.218,
+            "protein": "1A62",
+            "AANumber": "19",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.8813,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "20",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "21",
+            "AAName": "",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": 0,
+            "psi": 19.124,
+            "protein": "1A62",
+            "AANumber": "22",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -104.0708,
+            "psi": 156.476,
+            "protein": "1A62",
+            "AANumber": "23",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -135.7401,
+            "psi": 177.124,
+            "protein": "1A62",
+            "AANumber": "24",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 48.0741,
+            "psi": 37.3,
+            "protein": "1A62",
+            "AANumber": "25",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -75.7956,
+            "psi": -39.695,
+            "protein": "1A62",
+            "AANumber": "26",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -48.0786,
+            "psi": -36.614,
+            "protein": "1A62",
+            "AANumber": "27",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -78.9947,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "28",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "29",
+            "AAName": "",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 153.4,
+            "protein": "1A62",
+            "AANumber": "30",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -51.3767,
+            "psi": -45.301,
+            "protein": "1A62",
+            "AANumber": "31",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.6329,
+            "psi": -31.9,
+            "protein": "1A62",
+            "AANumber": "32",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -76.0906,
+            "psi": -32.493,
+            "protein": "1A62",
+            "AANumber": "33",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.4868,
+            "psi": -47.149,
+            "protein": "1A62",
+            "AANumber": "34",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.0732,
+            "psi": -42.797,
+            "protein": "1A62",
+            "AANumber": "35",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -58.8744,
+            "psi": -47.597,
+            "protein": "1A62",
+            "AANumber": "36",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -58.6914,
+            "psi": -45.242,
+            "protein": "1A62",
+            "AANumber": "37",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.2511,
+            "psi": -48.559,
+            "protein": "1A62",
+            "AANumber": "38",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.15,
+            "psi": -40.138,
+            "protein": "1A62",
+            "AANumber": "39",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.6134,
+            "psi": -44.579,
+            "protein": "1A62",
+            "AANumber": "40",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.3695,
+            "psi": -44.034,
+            "protein": "1A62",
+            "AANumber": "41",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.0176,
+            "psi": -47.683,
+            "protein": "1A62",
+            "AANumber": "42",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.6039,
+            "psi": -38.527,
+            "protein": "1A62",
+            "AANumber": "43",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.449,
+            "psi": -24.323,
+            "protein": "1A62",
+            "AANumber": "44",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -82.6635,
+            "psi": 2.171,
+            "protein": "1A62",
+            "AANumber": "45",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": 86.5823,
+            "psi": 9.29,
+            "protein": "1A62",
+            "AANumber": "46",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -93.2535,
+            "psi": 146.838,
+            "protein": "1A62",
+            "AANumber": "47",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -72.4227,
+            "psi": 147.471,
+            "protein": "1A62",
+            "AANumber": "48",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -131.8361,
+            "psi": 141.444,
+            "protein": "1A62",
+            "AANumber": "49",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -119.6161,
+            "psi": 164.446,
+            "protein": "1A62",
+            "AANumber": "50",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -155.9499,
+            "psi": 168.69,
+            "protein": "1A62",
+            "AANumber": "51",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -159.0746,
+            "psi": 165.984,
+            "protein": "1A62",
+            "AANumber": "52",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": 167.8813,
+            "psi": 179.887,
+            "protein": "1A62",
+            "AANumber": "53",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -95.5741,
+            "psi": 127.251,
+            "protein": "1A62",
+            "AANumber": "54",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -81.2025,
+            "psi": 138.645,
+            "protein": "1A62",
+            "AANumber": "55",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -133.9697,
+            "psi": 116.575,
+            "protein": "1A62",
+            "AANumber": "56",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -88.3735,
+            "psi": 124.785,
+            "protein": "1A62",
+            "AANumber": "57",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -89.7849,
+            "psi": 179.793,
+            "protein": "1A62",
+            "AANumber": "58",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -51.236,
+            "psi": -53.474,
+            "protein": "1A62",
+            "AANumber": "59",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -57.5945,
+            "psi": -12.585,
+            "protein": "1A62",
+            "AANumber": "60",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 103.9179,
+            "psi": -12.011,
+            "protein": "1A62",
+            "AANumber": "61",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -100.1991,
+            "psi": 169.627,
+            "protein": "1A62",
+            "AANumber": "62",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -136.003,
+            "psi": -174.583,
+            "protein": "1A62",
+            "AANumber": "63",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -145.2997,
+            "psi": 146.517,
+            "protein": "1A62",
+            "AANumber": "64",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -99.5768,
+            "psi": 125.149,
+            "protein": "1A62",
+            "AANumber": "65",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -118.6412,
+            "psi": 154.405,
+            "protein": "1A62",
+            "AANumber": "66",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -56.4654,
+            "psi": 144.279,
+            "protein": "1A62",
+            "AANumber": "67",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -62.0099,
+            "psi": -33.165,
+            "protein": "1A62",
+            "AANumber": "68",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -78.7039,
+            "psi": -7.823,
+            "protein": "1A62",
+            "AANumber": "69",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -76.2483,
+            "psi": -13.533,
+            "protein": "1A62",
+            "AANumber": "70",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": 55.1014,
+            "psi": 25.69,
+            "protein": "1A62",
+            "AANumber": "71",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 84.5233,
+            "psi": 17.832,
+            "protein": "1A62",
+            "AANumber": "72",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -81.1379,
+            "psi": 134.504,
+            "protein": "1A62",
+            "AANumber": "73",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -70.178,
+            "psi": 146.631,
+            "protein": "1A62",
+            "AANumber": "74",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -151.1501,
+            "psi": 163.032,
+            "protein": "1A62",
+            "AANumber": "75",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -62.4714,
+            "psi": -30.614,
+            "protein": "1A62",
+            "AANumber": "76",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -90.5034,
+            "psi": 14.629,
+            "protein": "1A62",
+            "AANumber": "77",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -61.6101,
+            "psi": 140.391,
+            "protein": "1A62",
+            "AANumber": "78",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -97.1623,
+            "psi": 122.105,
+            "protein": "1A62",
+            "AANumber": "79",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -71.1638,
+            "psi": 134.177,
+            "protein": "1A62",
+            "AANumber": "80",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -123.5726,
+            "psi": 123.285,
+            "protein": "1A62",
+            "AANumber": "81",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -76.4266,
+            "psi": 157.0,
+            "protein": "1A62",
+            "AANumber": "82",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -60.2823,
+            "psi": -32.557,
+            "protein": "1A62",
+            "AANumber": "83",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -69.4085,
+            "psi": -35.709,
+            "protein": "1A62",
+            "AANumber": "84",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -70.8282,
+            "psi": -36.763,
+            "protein": "1A62",
+            "AANumber": "85",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.5655,
+            "psi": -43.356,
+            "protein": "1A62",
+            "AANumber": "86",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -70.4109,
+            "psi": -42.906,
+            "protein": "1A62",
+            "AANumber": "87",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -53.3778,
+            "psi": -42.189,
+            "protein": "1A62",
+            "AANumber": "88",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -113.6031,
+            "psi": 18.515,
+            "protein": "1A62",
+            "AANumber": "89",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 42.9731,
+            "psi": 56.605,
+            "protein": "1A62",
+            "AANumber": "90",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -73.0347,
+            "psi": 149.699,
+            "protein": "1A62",
+            "AANumber": "91",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -129.2688,
+            "psi": 145.981,
+            "protein": "1A62",
+            "AANumber": "92",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -59.0073,
+            "psi": 138.484,
+            "protein": "1A62",
+            "AANumber": "93",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 97.1071,
+            "psi": -10.777,
+            "protein": "1A62",
+            "AANumber": "94",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -73.7283,
+            "psi": 145.207,
+            "protein": "1A62",
+            "AANumber": "95",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -98.1783,
+            "psi": 127.994,
+            "protein": "1A62",
+            "AANumber": "96",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -125.4673,
+            "psi": 145.442,
+            "protein": "1A62",
+            "AANumber": "97",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -144.0132,
+            "psi": 147.99,
+            "protein": "1A62",
+            "AANumber": "98",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": 169.7506,
+            "psi": -168.185,
+            "protein": "1A62",
+            "AANumber": "99",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -80.4468,
+            "psi": 141.065,
+            "protein": "1A62",
+            "AANumber": "100",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -126.7768,
+            "psi": 165.516,
+            "protein": "1A62",
+            "AANumber": "101",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -130.7512,
+            "psi": 150.121,
+            "protein": "1A62",
+            "AANumber": "102",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -74.384,
+            "psi": 153.58,
+            "protein": "1A62",
+            "AANumber": "103",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -64.3753,
+            "psi": 146.888,
+            "protein": "1A62",
+            "AANumber": "104",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -88.8667,
+            "psi": -178.271,
+            "protein": "1A62",
+            "AANumber": "105",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -59.8571,
+            "psi": 117.067,
+            "protein": "1A62",
+            "AANumber": "106",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 100.8025,
+            "psi": -20.967,
+            "protein": "1A62",
+            "AANumber": "107",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -73.5751,
+            "psi": 154.151,
+            "protein": "1A62",
+            "AANumber": "108",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -111.4763,
+            "psi": -39.983,
+            "protein": "1A62",
+            "AANumber": "109",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -111.1715,
+            "psi": 157.276,
+            "protein": "1A62",
+            "AANumber": "110",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -73.4818,
+            "psi": 147.94,
+            "protein": "1A62",
+            "AANumber": "111",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -122.8234,
+            "psi": 147.628,
+            "protein": "1A62",
+            "AANumber": "112",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -69.8244,
+            "psi": 125.109,
+            "protein": "1A62",
+            "AANumber": "113",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -95.887,
+            "psi": -45.095,
+            "protein": "1A62",
+            "AANumber": "114",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -142.6763,
+            "psi": 130.13,
+            "protein": "1A62",
+            "AANumber": "115",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -82.743,
+            "psi": 115.623,
+            "protein": "1A62",
+            "AANumber": "116",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -95.6281,
+            "psi": -40.851,
+            "protein": "1A62",
+            "AANumber": "117",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -142.8326,
+            "psi": 142.62,
+            "protein": "1A62",
+            "AANumber": "118",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": -124.1883,
+            "psi": 120.18,
+            "protein": "1A62",
+            "AANumber": "119",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "SHEET"
+        },
+        {
+            "phi": 53.8114,
+            "psi": 47.16,
+            "protein": "1A62",
+            "AANumber": "120",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 59.7652,
+            "psi": 15.301,
+            "protein": "1A62",
+            "AANumber": "121",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -125.914,
+            "psi": 165.376,
+            "protein": "1A62",
+            "AANumber": "122",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -61.5491,
+            "psi": 139.285,
+            "protein": "1A62",
+            "AANumber": "123",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -54.4322,
+            "psi": 14.21,
+            "protein": "1A62",
+            "AANumber": "124",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -117.8846,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "125",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "126",
+            "AAName": "",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "127",
+            "AAName": "",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "128",
+            "AAName": "",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "129",
+            "AAName": "",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "130",
+            "AAName": "",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 0,
+            "psi": 0,
+            "protein": "1A62",
+            "AANumber": "131",
+            "AAName": "",
+            "chain": "A",
+            "structure": ""
+        }
+    ]
+},{
+    "1AH7A": [
+        {
+            "phi": 0,
+            "psi": 161.015,
+            "protein": "1AH7",
+            "AANumber": "1",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -65.5346,
+            "psi": 152.106,
+            "protein": "1AH7",
+            "AANumber": "2",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -151.5827,
+            "psi": 50.237,
+            "protein": "1AH7",
+            "AANumber": "3",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -85.139,
+            "psi": -15.693,
+            "protein": "1AH7",
+            "AANumber": "4",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -125.8088,
+            "psi": 130.518,
+            "protein": "1AH7",
+            "AANumber": "5",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -59.3814,
+            "psi": -44.983,
+            "protein": "1AH7",
+            "AANumber": "6",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -117.1685,
+            "psi": 9.154,
+            "protein": "1AH7",
+            "AANumber": "7",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -120.6371,
+            "psi": 126.168,
+            "protein": "1AH7",
+            "AANumber": "8",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -65.156,
+            "psi": -29.519,
+            "protein": "1AH7",
+            "AANumber": "9",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -45.2166,
+            "psi": -46.877,
+            "protein": "1AH7",
+            "AANumber": "10",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -122.6727,
+            "psi": 32.286,
+            "protein": "1AH7",
+            "AANumber": "11",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -137.5823,
+            "psi": 89.268,
+            "protein": "1AH7",
+            "AANumber": "12",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -62.9322,
+            "psi": -35.547,
+            "protein": "1AH7",
+            "AANumber": "13",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -60.8106,
+            "psi": -45.264,
+            "protein": "1AH7",
+            "AANumber": "14",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -68.8792,
+            "psi": -37.122,
+            "protein": "1AH7",
+            "AANumber": "15",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.1367,
+            "psi": -44.436,
+            "protein": "1AH7",
+            "AANumber": "16",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.031,
+            "psi": -45.75,
+            "protein": "1AH7",
+            "AANumber": "17",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.6259,
+            "psi": -42.327,
+            "protein": "1AH7",
+            "AANumber": "18",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.0821,
+            "psi": -34.203,
+            "protein": "1AH7",
+            "AANumber": "19",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -71.8807,
+            "psi": -35.196,
+            "protein": "1AH7",
+            "AANumber": "20",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.8854,
+            "psi": -39.23,
+            "protein": "1AH7",
+            "AANumber": "21",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.8151,
+            "psi": -36.516,
+            "protein": "1AH7",
+            "AANumber": "22",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.2288,
+            "psi": -37.035,
+            "protein": "1AH7",
+            "AANumber": "23",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.118,
+            "psi": -45.508,
+            "protein": "1AH7",
+            "AANumber": "24",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.3817,
+            "psi": -44.365,
+            "protein": "1AH7",
+            "AANumber": "25",
+            "AAName": "MET",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.5468,
+            "psi": -32.588,
+            "protein": "1AH7",
+            "AANumber": "26",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -75.9118,
+            "psi": -22.856,
+            "protein": "1AH7",
+            "AANumber": "27",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -73.4525,
+            "psi": 121.933,
+            "protein": "1AH7",
+            "AANumber": "28",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -116.0823,
+            "psi": 8.252,
+            "protein": "1AH7",
+            "AANumber": "29",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -105.1105,
+            "psi": -34.807,
+            "protein": "1AH7",
+            "AANumber": "30",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -121.5292,
+            "psi": -33.744,
+            "protein": "1AH7",
+            "AANumber": "31",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -81.7888,
+            "psi": 128.185,
+            "protein": "1AH7",
+            "AANumber": "32",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -78.1886,
+            "psi": 116.879,
+            "protein": "1AH7",
+            "AANumber": "33",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -68.0724,
+            "psi": -15.909,
+            "protein": "1AH7",
+            "AANumber": "34",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -65.5038,
+            "psi": -23.595,
+            "protein": "1AH7",
+            "AANumber": "35",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.0863,
+            "psi": -43.328,
+            "protein": "1AH7",
+            "AANumber": "36",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.9575,
+            "psi": -40.997,
+            "protein": "1AH7",
+            "AANumber": "37",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.3218,
+            "psi": -35.104,
+            "protein": "1AH7",
+            "AANumber": "38",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -68.3554,
+            "psi": -40.451,
+            "protein": "1AH7",
+            "AANumber": "39",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.8677,
+            "psi": -37.168,
+            "protein": "1AH7",
+            "AANumber": "40",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -72.672,
+            "psi": -34.266,
+            "protein": "1AH7",
+            "AANumber": "41",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.5132,
+            "psi": -33.64,
+            "protein": "1AH7",
+            "AANumber": "42",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -110.8418,
+            "psi": 28.051,
+            "protein": "1AH7",
+            "AANumber": "43",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -58.7262,
+            "psi": -38.252,
+            "protein": "1AH7",
+            "AANumber": "44",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -56.3405,
+            "psi": -47.278,
+            "protein": "1AH7",
+            "AANumber": "45",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -69.436,
+            "psi": -39.399,
+            "protein": "1AH7",
+            "AANumber": "46",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.4184,
+            "psi": -43.208,
+            "protein": "1AH7",
+            "AANumber": "47",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -68.6708,
+            "psi": -35.734,
+            "protein": "1AH7",
+            "AANumber": "48",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.218,
+            "psi": -41.528,
+            "protein": "1AH7",
+            "AANumber": "49",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -67.9899,
+            "psi": -43.576,
+            "protein": "1AH7",
+            "AANumber": "50",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.4995,
+            "psi": -40.122,
+            "protein": "1AH7",
+            "AANumber": "51",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -75.9952,
+            "psi": -41.769,
+            "protein": "1AH7",
+            "AANumber": "52",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -56.0121,
+            "psi": -34.186,
+            "protein": "1AH7",
+            "AANumber": "53",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -53.6556,
+            "psi": -37.32,
+            "protein": "1AH7",
+            "AANumber": "54",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -94.5987,
+            "psi": 1.579,
+            "protein": "1AH7",
+            "AANumber": "55",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -120.109,
+            "psi": -19.353,
+            "protein": "1AH7",
+            "AANumber": "56",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -148.393,
+            "psi": 165.569,
+            "protein": "1AH7",
+            "AANumber": "57",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -71.8915,
+            "psi": 148.07,
+            "protein": "1AH7",
+            "AANumber": "58",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -82.9972,
+            "psi": -10.792,
+            "protein": "1AH7",
+            "AANumber": "59",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -59.4036,
+            "psi": -35.201,
+            "protein": "1AH7",
+            "AANumber": "60",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -99.4808,
+            "psi": 9.965,
+            "protein": "1AH7",
+            "AANumber": "61",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 51.651,
+            "psi": 53.581,
+            "protein": "1AH7",
+            "AANumber": "62",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 55.4238,
+            "psi": 43.085,
+            "protein": "1AH7",
+            "AANumber": "63",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 67.8299,
+            "psi": 19.543,
+            "protein": "1AH7",
+            "AANumber": "64",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -98.587,
+            "psi": -18.74,
+            "protein": "1AH7",
+            "AANumber": "65",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 56.3437,
+            "psi": 25.683,
+            "protein": "1AH7",
+            "AANumber": "66",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -53.247,
+            "psi": -40.211,
+            "protein": "1AH7",
+            "AANumber": "67",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -75.7475,
+            "psi": -0.975,
+            "protein": "1AH7",
+            "AANumber": "68",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -92.389,
+            "psi": 3.643,
+            "protein": "1AH7",
+            "AANumber": "69",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -121.9647,
+            "psi": 153.179,
+            "protein": "1AH7",
+            "AANumber": "70",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -164.6257,
+            "psi": 114.579,
+            "protein": "1AH7",
+            "AANumber": "71",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -95.9359,
+            "psi": 118.471,
+            "protein": "1AH7",
+            "AANumber": "72",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -65.9862,
+            "psi": -21.49,
+            "protein": "1AH7",
+            "AANumber": "73",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -75.3997,
+            "psi": -31.985,
+            "protein": "1AH7",
+            "AANumber": "74",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -120.0399,
+            "psi": -8.745,
+            "protein": "1AH7",
+            "AANumber": "75",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 77.5593,
+            "psi": 16.964,
+            "protein": "1AH7",
+            "AANumber": "76",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -120.1686,
+            "psi": 159.514,
+            "protein": "1AH7",
+            "AANumber": "77",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -92.9599,
+            "psi": -176.962,
+            "protein": "1AH7",
+            "AANumber": "78",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -81.7572,
+            "psi": -9.982,
+            "protein": "1AH7",
+            "AANumber": "79",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -111.9812,
+            "psi": 122.709,
+            "protein": "1AH7",
+            "AANumber": "80",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -50.8141,
+            "psi": 135.879,
+            "protein": "1AH7",
+            "AANumber": "81",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 65.306,
+            "psi": 8.864,
+            "protein": "1AH7",
+            "AANumber": "82",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -85.6788,
+            "psi": 167.767,
+            "protein": "1AH7",
+            "AANumber": "83",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -79.2978,
+            "psi": 145.421,
+            "protein": "1AH7",
+            "AANumber": "84",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -114.3059,
+            "psi": 175.453,
+            "protein": "1AH7",
+            "AANumber": "85",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -69.4601,
+            "psi": -27.164,
+            "protein": "1AH7",
+            "AANumber": "86",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -71.2923,
+            "psi": -50.133,
+            "protein": "1AH7",
+            "AANumber": "87",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -68.8768,
+            "psi": -31.639,
+            "protein": "1AH7",
+            "AANumber": "88",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -76.4268,
+            "psi": -42.211,
+            "protein": "1AH7",
+            "AANumber": "89",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.2417,
+            "psi": -38.837,
+            "protein": "1AH7",
+            "AANumber": "90",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -67.5817,
+            "psi": -36.606,
+            "protein": "1AH7",
+            "AANumber": "91",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -56.4778,
+            "psi": -47.566,
+            "protein": "1AH7",
+            "AANumber": "92",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -75.306,
+            "psi": -24.995,
+            "protein": "1AH7",
+            "AANumber": "93",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.7883,
+            "psi": -44.491,
+            "protein": "1AH7",
+            "AANumber": "94",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -73.2795,
+            "psi": -39.218,
+            "protein": "1AH7",
+            "AANumber": "95",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.1724,
+            "psi": -39.377,
+            "protein": "1AH7",
+            "AANumber": "96",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.3124,
+            "psi": -43.753,
+            "protein": "1AH7",
+            "AANumber": "97",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.4816,
+            "psi": -39.381,
+            "protein": "1AH7",
+            "AANumber": "98",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.5416,
+            "psi": -40.29,
+            "protein": "1AH7",
+            "AANumber": "99",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.7694,
+            "psi": -39.737,
+            "protein": "1AH7",
+            "AANumber": "100",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.0809,
+            "psi": -41.669,
+            "protein": "1AH7",
+            "AANumber": "101",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.5475,
+            "psi": -31.522,
+            "protein": "1AH7",
+            "AANumber": "102",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -86.9918,
+            "psi": 4.702,
+            "protein": "1AH7",
+            "AANumber": "103",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": 66.3487,
+            "psi": 26.413,
+            "protein": "1AH7",
+            "AANumber": "104",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -98.4454,
+            "psi": 84.899,
+            "protein": "1AH7",
+            "AANumber": "105",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -67.0667,
+            "psi": -38.019,
+            "protein": "1AH7",
+            "AANumber": "106",
+            "AAName": "MET",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.7514,
+            "psi": -43.861,
+            "protein": "1AH7",
+            "AANumber": "107",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -67.8063,
+            "psi": -43.749,
+            "protein": "1AH7",
+            "AANumber": "108",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -58.3981,
+            "psi": -50.936,
+            "protein": "1AH7",
+            "AANumber": "109",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -73.4132,
+            "psi": -28.895,
+            "protein": "1AH7",
+            "AANumber": "110",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.6452,
+            "psi": -47.208,
+            "protein": "1AH7",
+            "AANumber": "111",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.2447,
+            "psi": -34.756,
+            "protein": "1AH7",
+            "AANumber": "112",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.0651,
+            "psi": -40.626,
+            "protein": "1AH7",
+            "AANumber": "113",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.342,
+            "psi": -44.898,
+            "protein": "1AH7",
+            "AANumber": "114",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -55.9984,
+            "psi": -47.764,
+            "protein": "1AH7",
+            "AANumber": "115",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.84,
+            "psi": -39.243,
+            "protein": "1AH7",
+            "AANumber": "116",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.5988,
+            "psi": -36.394,
+            "protein": "1AH7",
+            "AANumber": "117",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.3311,
+            "psi": -49.668,
+            "protein": "1AH7",
+            "AANumber": "118",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.5866,
+            "psi": -42.617,
+            "protein": "1AH7",
+            "AANumber": "119",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.9937,
+            "psi": -37.942,
+            "protein": "1AH7",
+            "AANumber": "120",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.5682,
+            "psi": -41.59,
+            "protein": "1AH7",
+            "AANumber": "121",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.0789,
+            "psi": -34.447,
+            "protein": "1AH7",
+            "AANumber": "122",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -75.7958,
+            "psi": -9.722,
+            "protein": "1AH7",
+            "AANumber": "123",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -80.6081,
+            "psi": -8.727,
+            "protein": "1AH7",
+            "AANumber": "124",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -88.0795,
+            "psi": 113.092,
+            "protein": "1AH7",
+            "AANumber": "125",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -50.7457,
+            "psi": -37.19,
+            "protein": "1AH7",
+            "AANumber": "126",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.3876,
+            "psi": -37.385,
+            "protein": "1AH7",
+            "AANumber": "127",
+            "AAName": "MET",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -71.4232,
+            "psi": -22.45,
+            "protein": "1AH7",
+            "AANumber": "128",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -89.9663,
+            "psi": 1.412,
+            "protein": "1AH7",
+            "AANumber": "129",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -128.3072,
+            "psi": 10.978,
+            "protein": "1AH7",
+            "AANumber": "130",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": 54.7007,
+            "psi": 41.735,
+            "protein": "1AH7",
+            "AANumber": "131",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -101.1274,
+            "psi": 104.564,
+            "protein": "1AH7",
+            "AANumber": "132",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -100.3841,
+            "psi": -175.845,
+            "protein": "1AH7",
+            "AANumber": "133",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -72.9218,
+            "psi": -7.798,
+            "protein": "1AH7",
+            "AANumber": "134",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -102.2746,
+            "psi": -7.403,
+            "protein": "1AH7",
+            "AANumber": "135",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -71.1617,
+            "psi": 155.295,
+            "protein": "1AH7",
+            "AANumber": "136",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -71.5832,
+            "psi": 126.098,
+            "protein": "1AH7",
+            "AANumber": "137",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -80.6098,
+            "psi": 124.871,
+            "protein": "1AH7",
+            "AANumber": "138",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -61.9477,
+            "psi": 134.631,
+            "protein": "1AH7",
+            "AANumber": "139",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 98.1268,
+            "psi": -14.382,
+            "protein": "1AH7",
+            "AANumber": "140",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -66.5688,
+            "psi": -38.733,
+            "protein": "1AH7",
+            "AANumber": "141",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -56.7883,
+            "psi": -51.54,
+            "protein": "1AH7",
+            "AANumber": "142",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.6486,
+            "psi": -41.379,
+            "protein": "1AH7",
+            "AANumber": "143",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -69.66,
+            "psi": -33.182,
+            "protein": "1AH7",
+            "AANumber": "144",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.0447,
+            "psi": -48.818,
+            "protein": "1AH7",
+            "AANumber": "145",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.9921,
+            "psi": -31.246,
+            "protein": "1AH7",
+            "AANumber": "146",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -69.8575,
+            "psi": -40.663,
+            "protein": "1AH7",
+            "AANumber": "147",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.7555,
+            "psi": -40.454,
+            "protein": "1AH7",
+            "AANumber": "148",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -56.9086,
+            "psi": -37.433,
+            "protein": "1AH7",
+            "AANumber": "149",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -61.1041,
+            "psi": -30.418,
+            "protein": "1AH7",
+            "AANumber": "150",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -76.2357,
+            "psi": -20.609,
+            "protein": "1AH7",
+            "AANumber": "151",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -113.221,
+            "psi": -19.388,
+            "protein": "1AH7",
+            "AANumber": "152",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -49.6464,
+            "psi": -31.919,
+            "protein": "1AH7",
+            "AANumber": "153",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -60.4719,
+            "psi": -20.094,
+            "protein": "1AH7",
+            "AANumber": "154",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -77.2176,
+            "psi": -10.582,
+            "protein": "1AH7",
+            "AANumber": "155",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -114.4454,
+            "psi": 27.221,
+            "protein": "1AH7",
+            "AANumber": "156",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -66.2784,
+            "psi": 141.114,
+            "protein": "1AH7",
+            "AANumber": "157",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -80.0095,
+            "psi": 127.598,
+            "protein": "1AH7",
+            "AANumber": "158",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -112.1354,
+            "psi": 21.538,
+            "protein": "1AH7",
+            "AANumber": "159",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -122.8588,
+            "psi": 175.44,
+            "protein": "1AH7",
+            "AANumber": "160",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -100.1105,
+            "psi": 24.388,
+            "protein": "1AH7",
+            "AANumber": "161",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -100.962,
+            "psi": 86.447,
+            "protein": "1AH7",
+            "AANumber": "162",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -85.117,
+            "psi": 170.515,
+            "protein": "1AH7",
+            "AANumber": "163",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -86.6189,
+            "psi": 77.746,
+            "protein": "1AH7",
+            "AANumber": "164",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -69.1863,
+            "psi": 131.699,
+            "protein": "1AH7",
+            "AANumber": "165",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 50.3961,
+            "psi": 45.26,
+            "protein": "1AH7",
+            "AANumber": "166",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -60.7267,
+            "psi": -47.519,
+            "protein": "1AH7",
+            "AANumber": "167",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -123.7341,
+            "psi": -167.046,
+            "protein": "1AH7",
+            "AANumber": "168",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -72.3327,
+            "psi": -152.174,
+            "protein": "1AH7",
+            "AANumber": "169",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -89.036,
+            "psi": -10.925,
+            "protein": "1AH7",
+            "AANumber": "170",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -84.3408,
+            "psi": 121.924,
+            "protein": "1AH7",
+            "AANumber": "171",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -59.6924,
+            "psi": -28.474,
+            "protein": "1AH7",
+            "AANumber": "172",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -61.6051,
+            "psi": -34.797,
+            "protein": "1AH7",
+            "AANumber": "173",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.71,
+            "psi": -34.412,
+            "protein": "1AH7",
+            "AANumber": "174",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -70.7675,
+            "psi": -43.344,
+            "protein": "1AH7",
+            "AANumber": "175",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.6909,
+            "psi": -42.829,
+            "protein": "1AH7",
+            "AANumber": "176",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.0237,
+            "psi": -45.273,
+            "protein": "1AH7",
+            "AANumber": "177",
+            "AAName": "HIS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.0514,
+            "psi": -41.011,
+            "protein": "1AH7",
+            "AANumber": "178",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.4958,
+            "psi": -39.011,
+            "protein": "1AH7",
+            "AANumber": "179",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.8998,
+            "psi": -34.71,
+            "protein": "1AH7",
+            "AANumber": "180",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.1946,
+            "psi": -47.321,
+            "protein": "1AH7",
+            "AANumber": "181",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.669,
+            "psi": -43.097,
+            "protein": "1AH7",
+            "AANumber": "182",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.0656,
+            "psi": -37.663,
+            "protein": "1AH7",
+            "AANumber": "183",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -71.3359,
+            "psi": -28.584,
+            "protein": "1AH7",
+            "AANumber": "184",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.5318,
+            "psi": -35.731,
+            "protein": "1AH7",
+            "AANumber": "185",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -84.7125,
+            "psi": 2.812,
+            "protein": "1AH7",
+            "AANumber": "186",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -57.4187,
+            "psi": -41.142,
+            "protein": "1AH7",
+            "AANumber": "187",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -72.4402,
+            "psi": -12.8,
+            "protein": "1AH7",
+            "AANumber": "188",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -78.0599,
+            "psi": -9.036,
+            "protein": "1AH7",
+            "AANumber": "189",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -118.8628,
+            "psi": -49.984,
+            "protein": "1AH7",
+            "AANumber": "190",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -107.3715,
+            "psi": 115.361,
+            "protein": "1AH7",
+            "AANumber": "191",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -158.6981,
+            "psi": -179.792,
+            "protein": "1AH7",
+            "AANumber": "192",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -59.466,
+            "psi": -37.946,
+            "protein": "1AH7",
+            "AANumber": "193",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.3738,
+            "psi": -49.365,
+            "protein": "1AH7",
+            "AANumber": "194",
+            "AAName": "ASN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.4408,
+            "psi": -31.181,
+            "protein": "1AH7",
+            "AANumber": "195",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.8386,
+            "psi": -49.794,
+            "protein": "1AH7",
+            "AANumber": "196",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -53.769,
+            "psi": -53.058,
+            "protein": "1AH7",
+            "AANumber": "197",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.6897,
+            "psi": -36.926,
+            "protein": "1AH7",
+            "AANumber": "198",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.189,
+            "psi": -45.781,
+            "protein": "1AH7",
+            "AANumber": "199",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.9513,
+            "psi": -46.449,
+            "protein": "1AH7",
+            "AANumber": "200",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -71.4178,
+            "psi": -17.362,
+            "protein": "1AH7",
+            "AANumber": "201",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.7643,
+            "psi": -25.03,
+            "protein": "1AH7",
+            "AANumber": "202",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -58.3473,
+            "psi": -40.046,
+            "protein": "1AH7",
+            "AANumber": "203",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -96.3893,
+            "psi": -34.72,
+            "protein": "1AH7",
+            "AANumber": "204",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -116.9464,
+            "psi": 124.416,
+            "protein": "1AH7",
+            "AANumber": "205",
+            "AAName": "SER",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -62.5754,
+            "psi": -33.204,
+            "protein": "1AH7",
+            "AANumber": "206",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -57.9896,
+            "psi": -37.981,
+            "protein": "1AH7",
+            "AANumber": "207",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -75.5487,
+            "psi": -28.692,
+            "protein": "1AH7",
+            "AANumber": "208",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.6929,
+            "psi": -46.568,
+            "protein": "1AH7",
+            "AANumber": "209",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.0886,
+            "psi": -36.401,
+            "protein": "1AH7",
+            "AANumber": "210",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.0185,
+            "psi": -47.269,
+            "protein": "1AH7",
+            "AANumber": "211",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -71.8818,
+            "psi": -35.747,
+            "protein": "1AH7",
+            "AANumber": "212",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.8713,
+            "psi": -42.543,
+            "protein": "1AH7",
+            "AANumber": "213",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -67.9018,
+            "psi": -40.968,
+            "protein": "1AH7",
+            "AANumber": "214",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.1809,
+            "psi": -40.921,
+            "protein": "1AH7",
+            "AANumber": "215",
+            "AAName": "GLU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -86.6468,
+            "psi": -4.052,
+            "protein": "1AH7",
+            "AANumber": "216",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.8828,
+            "psi": -50.377,
+            "protein": "1AH7",
+            "AANumber": "217",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -55.2362,
+            "psi": -48.591,
+            "protein": "1AH7",
+            "AANumber": "218",
+            "AAName": "PRO",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -72.3653,
+            "psi": -30.099,
+            "protein": "1AH7",
+            "AANumber": "219",
+            "AAName": "MET",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.7978,
+            "psi": -45.548,
+            "protein": "1AH7",
+            "AANumber": "220",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.4747,
+            "psi": -38.934,
+            "protein": "1AH7",
+            "AANumber": "221",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.5002,
+            "psi": -45.338,
+            "protein": "1AH7",
+            "AANumber": "222",
+            "AAName": "LYS",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.749,
+            "psi": -39.588,
+            "protein": "1AH7",
+            "AANumber": "223",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -67.1888,
+            "psi": -35.478,
+            "protein": "1AH7",
+            "AANumber": "224",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -67.9898,
+            "psi": -42.272,
+            "protein": "1AH7",
+            "AANumber": "225",
+            "AAName": "MET",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.2431,
+            "psi": -38.144,
+            "protein": "1AH7",
+            "AANumber": "226",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.0567,
+            "psi": -36.858,
+            "protein": "1AH7",
+            "AANumber": "227",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -66.8278,
+            "psi": -45.288,
+            "protein": "1AH7",
+            "AANumber": "228",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -65.5074,
+            "psi": -38.965,
+            "protein": "1AH7",
+            "AANumber": "229",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -69.4793,
+            "psi": -39.069,
+            "protein": "1AH7",
+            "AANumber": "230",
+            "AAName": "VAL",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.9741,
+            "psi": -40.924,
+            "protein": "1AH7",
+            "AANumber": "231",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -61.8194,
+            "psi": -41.486,
+            "protein": "1AH7",
+            "AANumber": "232",
+            "AAName": "ALA",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -60.9529,
+            "psi": -40.288,
+            "protein": "1AH7",
+            "AANumber": "233",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -68.8473,
+            "psi": -38.256,
+            "protein": "1AH7",
+            "AANumber": "234",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.498,
+            "psi": -42.601,
+            "protein": "1AH7",
+            "AANumber": "235",
+            "AAName": "ILE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -62.1924,
+            "psi": -39.267,
+            "protein": "1AH7",
+            "AANumber": "236",
+            "AAName": "GLN",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.0733,
+            "psi": -45.054,
+            "protein": "1AH7",
+            "AANumber": "237",
+            "AAName": "LEU",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -59.6317,
+            "psi": -49.912,
+            "protein": "1AH7",
+            "AANumber": "238",
+            "AAName": "TRP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -64.4031,
+            "psi": -36.51,
+            "protein": "1AH7",
+            "AANumber": "239",
+            "AAName": "PHE",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -63.1007,
+            "psi": -34.498,
+            "protein": "1AH7",
+            "AANumber": "240",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -77.8771,
+            "psi": -42.87,
+            "protein": "1AH7",
+            "AANumber": "241",
+            "AAName": "THR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -114.331,
+            "psi": -9.916,
+            "protein": "1AH7",
+            "AANumber": "242",
+            "AAName": "TYR",
+            "chain": "A",
+            "structure": "HELIX"
+        },
+        {
+            "phi": -76.9041,
+            "psi": 7.015,
+            "protein": "1AH7",
+            "AANumber": "243",
+            "AAName": "GLY",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": 116.9763,
+            "psi": 27.792,
+            "protein": "1AH7",
+            "AANumber": "244",
+            "AAName": "ASP",
+            "chain": "A",
+            "structure": ""
+        },
+        {
+            "phi": -163.873,
+            "psi": 0,
+            "protein": "1AH7",
+            "AANumber": "245",
+            "AAName": "ARG",
+            "chain": "A",
+            "structure": ""
+        }
+    ]
+}
