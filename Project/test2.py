@@ -14,7 +14,6 @@ class test:
 		self.alltorsions = []
 		self.secondary = []
 
-
 	def get_helices(self,line):
 		if line[:4].strip() == 'IDs':
 			return
@@ -65,8 +64,6 @@ class test:
 		self.alltorsions = []
 		self.secondary = []
 
-
-
 	def get_coord(self,protein,chain,aaNumber):
 		pdb = open('proteins/'+protein+ '.txt', 'r')
 		lines = pdb.readlines()
@@ -104,8 +101,6 @@ class test:
 			else:
 				pass
 		return self.get_torsion(Cphi,N,CA,C,Npsi, protein, aaNumber,chain,aaName)
-
-
 
 	def get_torsion(self,Cphi,N,CA,C,Npsi, protein, aaNumber,chain,aaName):
 			torsions = {}
@@ -171,7 +166,6 @@ class test:
 					pass
 			return torsions
 
-
 		
 fetch = test()
 
@@ -179,9 +173,11 @@ proteins = open('proteins.txt', 'r')
 lines = proteins.readlines()
 proteins.close()
 
-with concurrent.futures.ProcessPoolExecutor() as executor:
-	result = executor.map(fetch.get_helices,lines)
-		with open('Q2.json') as fh:
-			out_file = open("Q2.json", "a+")
-		json.dump(i, out_file, indent = 4)
-		out_file.close()
+#Q2
+if __name__ == '__main__':
+	with concurrent.futures.ProcessPoolExecutor() as executor:
+		result = executor.map(fetch.get_helices,lines)
+			with open('Q2.json') as fh:
+				out_file = open("Q2.json", "a+")
+			json.dump(i, out_file, indent = 4)
+			out_file.close()

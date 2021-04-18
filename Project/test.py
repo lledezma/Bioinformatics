@@ -33,7 +33,6 @@ class test:
 				open(file, 'a').write(str(myfile.content).replace("\\n","\n"))  #dump the information into <protein name>.txt
 			 # self.chain = pdb[4:9].strip()           #read the last character of the input which is the chain
 
-
 	def get_Q3(self,line):
 		if line[:4].strip() == 'IDs':
 			pass
@@ -125,7 +124,6 @@ class test:
 
 		self.storeAllAngles[cProtein] = proteinHelices
 		return self.storeAllAngles
-
 
 	def get_Q5(self,line):
 		if line[:4].strip() == 'IDs':
@@ -245,7 +243,6 @@ class test:
 			except:
 				pass
 
-
 	def get_Q6_4(self,line):
 		counter = 0
 		if line[:4].strip() == 'IDs':
@@ -298,7 +295,6 @@ class test:
 							return self.storeAllAngles
 			except:
 				pass
-
 
 	def get_Q6_5(self,line):
 		if line[:4].strip() == 'IDs':
@@ -357,7 +353,6 @@ class test:
 			else:
 				return
 			return self.storeAlldistances
-	
 
 	def get_coord(self,protein,chain,aaNumber):
 		pdb = open('proteins/'+protein+ '.txt', 'r')
@@ -372,7 +367,6 @@ class test:
 				break
 		return CA
 
-
 	def get_center(self,atoms):
 		center = []
 		center.append((atoms[0][0] + atoms[1][0] + atoms[2][0]) / 3)
@@ -383,7 +377,6 @@ class test:
 		center[2] = round(center[2],3)
 		return center
 
-
 	def get_distance(self, atom1, atom2,centerLine):
 		fp = (self.get_projection(atom1,centerLine[0],centerLine[1]))
 		sp = (self.get_projection(atom2,centerLine[0],centerLine[1]))
@@ -392,7 +385,6 @@ class test:
 		except:
 		    distance = 0
 		return round(distance,3)
-
 
 	def get_line(self,atom1,atom2, atom3, atom4,atom5,atom6,atom7,atom8):
 		maincenter = []
@@ -416,11 +408,9 @@ class test:
 		maincenter.append(center2)
 		return maincenter
 
-
 	def store_torAngles(self, TorsionAngel):
 		self.storeProteinAngles.append(TorsionAngel)
 		return
-
 
 	def get_torsion(self,Calpha1,center1,center2,Calpha2):
 			RadandDeg = {'Radian':0.0, 'Degree':0.0}
@@ -500,11 +490,12 @@ proteins = open('proteins.txt', 'r')
 lines = proteins.readlines()
 proteins.close()
 
-with concurrent.futures.ProcessPoolExecutor() as executor:
-	result = executor.map(fetch.get_Q4,lines)
-	for i in result:
-		with open('Q4.json') as fh:
-			out_file = open("Q4.json", "a+") 
-		json.dump(i, out_file, indent = 4) 
-	    out_file.close()
+if __name__ == '__main__':
+	with concurrent.futures.ProcessPoolExecutor() as executor:
+		result = executor.map(fetch.get_Q4,lines)
+		for i in result:
+			with open('Q4.json') as fh:
+				out_file = open("Q4.json", "a+") 
+			json.dump(i, out_file, indent = 4) 
+		    out_file.close()
 
