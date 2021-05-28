@@ -5,7 +5,7 @@ import concurrent.futures
 import json
 from numpy import *
 
-class test:
+class Test:
 
 	def __init__(self):
 		self.storeAllAngles = {}
@@ -167,7 +167,7 @@ class test:
 			return torsions
 
 		
-fetch = test()
+fetch = Test()
 
 proteins = open('proteins.txt', 'r')
 lines = proteins.readlines()

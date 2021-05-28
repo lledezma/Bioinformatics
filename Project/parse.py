@@ -6,7 +6,7 @@ import matplotlib.patches as mpatches
 import pandas as pd
 import concurrent.futures
 
-class parse:
+class Parse:
 
 	def __init__(self):
 		print("")
@@ -465,4 +465,4 @@ class parse:
 			NonPhi = []
 			NonPsi = []
 
-test = parse()
+test = Parse()
