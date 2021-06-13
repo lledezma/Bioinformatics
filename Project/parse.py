@@ -11,7 +11,7 @@ class Parse:
 	def __init__(self):
 		print("")
 
-	def Q6_5(self):
+	def q6_5(self):
 		with open('Q6_5.json') as f:
 			data = json.load(f)
 
@@ -90,7 +90,7 @@ class Parse:
 		plt.show()
 		return
 
-	def Q6_4(self):
+	def q6_4(self):
 		with open('/Q6_4.json') as f:
 			data = json.load(f)
 
@@ -182,7 +182,7 @@ class Parse:
 
 		return
 
-	def Q6_3(self):
+	def q6_3(self):
 		with open('Q6_3.json') as f:
 			data = json.load(f)
 
@@ -202,7 +202,7 @@ class Parse:
 		plt.scatter(x, y)
 		plt.show()
 
-	def Q5(self):
+	def q5(self):
 		with open('Q5.json') as f:
 			data = json.load(f)
 		labels = ['0-0.5', '0.5-1', '1-1.5', '1.5-2', '2-2.5', '2.5-3', '3-3.5',
@@ -279,7 +279,7 @@ class Parse:
 		fig.tight_layout()
 		plt.show()
 
-	def Q4(self):
+	def q4(self):
 		with open('Q4.json') as f:
 			data = json.load(f)
 
@@ -370,7 +370,7 @@ class Parse:
 
 		return
 
-	def Q3(self):
+	def q3(self):
 		with open('Q3.json') as f:
 			data = json.load(f)
 
@@ -390,7 +390,7 @@ class Parse:
 		plt.scatter(x, y)
 		plt.show()
 
-	def Q2(self):
+	def q2(self):
 		with open('Q2.json') as f:
 			data = json.load(f)
 

@@ -33,7 +33,7 @@ class Test:
 				open(file, 'a').write(str(myfile.content).replace("\\n","\n"))  #dump the information into <protein name>.txt
 			 # self.chain = pdb[4:9].strip()           #read the last character of the input which is the chain
 
-	def get_Q3(self,line):
+	def get_q3(self,line):
 		if line[:4].strip() == 'IDs':
 			pass
 		else:
@@ -82,7 +82,7 @@ class Test:
 				pass
 			self.storeProteinAngles = []
 
-	def get_Q4(self,line):
+	def get_q4(self,line):
 		if line[:4].strip() == 'IDs':
 			return
 		else:
@@ -125,7 +125,7 @@ class Test:
 		self.storeAllAngles[cProtein] = proteinHelices
 		return self.storeAllAngles
 
-	def get_Q5(self,line):
+	def get_q5(self,line):
 		if line[:4].strip() == 'IDs':
 			return
 		else:
@@ -181,7 +181,7 @@ class Test:
 		self.storeAlldistances[cProtein] = alldistances
 		return self.storeAlldistances
 
-	def get_Q6_3(self,line):
+	def get_q6_3(self,line):
 		counter = 0
 		if line[:4].strip() == 'IDs':
 			pass
@@ -243,7 +243,7 @@ class Test:
 			except:
 				pass
 
-	def get_Q6_4(self,line):
+	def get_q6_4(self,line):
 		counter = 0
 		if line[:4].strip() == 'IDs':
 			pass
@@ -296,7 +296,7 @@ class Test:
 			except:
 				pass
 
-	def get_Q6_5(self,line):
+	def get_q6_5(self,line):
 		if line[:4].strip() == 'IDs':
 			return
 		else:
@@ -408,7 +408,7 @@ class Test:
 		maincenter.append(center2)
 		return maincenter
 
-	def store_torAngles(self, TorsionAngel):
+	def store_tor_angles(self, TorsionAngel):
 		self.storeProteinAngles.append(TorsionAngel)
 		return
 
@@ -484,7 +484,7 @@ class Test:
 		return newlast
 
 
-fetch = Test()
+Fetch = Test()
 
 proteins = open('proteins.txt', 'r')
 lines = proteins.readlines()
@@ -492,7 +492,7 @@ proteins.close()
 
 if __name__ == '__main__':
 	with concurrent.futures.ProcessPoolExecutor() as executor:
-		result = executor.map(fetch.get_Q4,lines)
+		result = executor.map(Fetch.get_q4,lines)
 		for i in result:
 			with open('Q4.json') as fh:
 				out_file = open("Q4.json", "a+") 
