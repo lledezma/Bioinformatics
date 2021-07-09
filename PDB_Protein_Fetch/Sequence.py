@@ -97,8 +97,6 @@ class Test:
 		protein = "".join(protein)
 		return protein
 
-
-
 	def frames(self,sequence):  #QUESTION 5
 		rsequence = sequence
 
@@ -138,7 +136,6 @@ class Test:
 			print("6th frame:", "No amino acids found")
 		else:
 			print("6th frame:", self.translation(rsequence))
-
 
 
 

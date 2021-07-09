@@ -19,7 +19,7 @@ class PDB:
             self.chain = pdb[4:].strip()           #read the last character of the input which is the chain
 
 
-    def Q2(self):
+    def q2(self):
         aminoAcids = []
         aminoAcidscount = "0"
         missingcount = 0
@@ -39,7 +39,7 @@ class PDB:
 
 
 
-    def Q3(self,aaSequenceNumber):
+    def q3(self,aaSequenceNumber):
         countAtoms = 0
         self.pdb = open(self.file, 'r')
         lines = self.pdb.readlines()
@@ -66,7 +66,7 @@ class PDB:
 
 
 
-    def Q4(self):
+    def q4(self):
         helixcount = 0
         helixType = {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0,
                      '7': 0, '8': 0, '9': 0, '10': 0}
@@ -87,7 +87,7 @@ class PDB:
             print(number, "-",clss, ": ", helixType[number])
 
 
-    def Q5(self,ID):
+    def q5(self,ID):
         sheetcount = 0
         self.pdb = open(self.file, 'r')
         lines = self.pdb.readlines()
@@ -102,7 +102,7 @@ class PDB:
             print("Number of strands that form sheet",ID, ":", sheetcount)
 
 
-    def Q6(self, atom):
+    def q6(self, atom):
         aanumber, atomname = atom.split('.')
         X = ""
         Y = ""
@@ -125,7 +125,7 @@ class PDB:
             print("z: ", Z)
 
 
-    def Q7(self, AA):
+    def q7(self, AA):
         sheetID,number, position = AA.split('.')
         self.pdb = open(self.file, 'r')
         lines = self.pdb.readlines()
@@ -141,7 +141,7 @@ class PDB:
 
 
 
-    def Q8(self, atom1, atom2):
+    def q8(self, atom1, atom2):
         aanumber1, atomname1 = atom1.split('.')
         X1 = ""
         Y1 = ""
@@ -171,7 +171,7 @@ class PDB:
 
 
 
-    def Q9(self, aa):
+    def q9(self, aa):
         aaNumber, angletype =  aa.split('.')
         Cphi = []
         N = []
@@ -271,28 +271,28 @@ class PDB:
 
 
 
-PDBf = PDB('3UTSA')          # 1. Able to read the protein from local file and fetch it from online (8 points).
+PDBf = PDB('3UTSA')          # 1. Able to read the protein from local file and fetch it from online.
 
 # print("")
-# PDBf.Q2()                  # 2. Show the number of amino acids in the chain and how many are missing structural information.
+# PDBf.q2()                  # 2. Show the number of amino acids in the chain and how many are missing structural information.
 
 # print("")
-# PDBf.Q3(2)                 # 3. Show the number of atoms in a given aa (aa sequence number should be provided) and show how many atoms in the side chain.
+# PDBf.q3(2)                 # 3. Show the number of atoms in a given aa (aa sequence number should be provided) and show how many atoms in the side chain.
 
 # print("")
-# PDBf.Q4()                  # 4. Show the total number of helices and then list how many helices for each type (alpha, 3- 10,...etc).
+# PDBf.q4()                  # 4. Show the total number of helices and then list how many helices for each type (alpha, 3- 10,...etc).
 
 # print("")
-# PDBf.Q5('AB')              # 5. Given a sheet ID, show how many strands form that sheet. The user may provide the input as A or AA. Your method will report if the sheet does not exist
+# PDBf.q5('AB')              # 5. Given a sheet ID, show how many strands form that sheet. The user may provide the input as A or AA. Your method will report if the sheet does not exist
 
 # print("")
-# PDBf.Q6('42.N')            # 5. Return the coordinates of a particular atom (The user should provide aa number and the name of the atom as follow: 56.CA).
+# PDBf.q6('42.N')            # 5. Return the coordinates of a particular atom (The user should provide aa number and the name of the atom as follow: 56.CA).
 
 # print("")
-# PDBf.Q7('X.2.begin')       # 6. Show the name (3-letter code) of the amino acid at the beginning or end of a given strand by its number (the user should provide the input as: A.1.end or E.3.begin).
+# PDBf.q7('X.2.begin')       # 6. Show the name (3-letter code) of the amino acid at the beginning or end of a given strand by its number (the user should provide the input as: A.1.end or E.3.begin).
 
 # print("")
-# PDBf.Q8('9.C', '99.N')     # 7. Find the distance between given two atoms (the user should provide aa numbers and atom names as follow, comma separated: 55.N, 78.CG2).
+# PDBf.q8('9.C', '99.N')     # 7. Find the distance between given two atoms (the user should provide aa numbers and atom names as follow, comma separated: 55.N, 78.CG2).
 
 # print("")
-# PDBf.Q9('11.psi')          # 8. Calculate phi or psi for a given amino acid (the user provide the input as 45.phi or 23.psi).
+# PDBf.q9('11.psi')          # 8. Calculate phi or psi for a given amino acid (the user provides the input as 45.phi or 23.psi).
