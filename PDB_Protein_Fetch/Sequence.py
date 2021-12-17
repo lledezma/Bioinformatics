@@ -100,7 +100,6 @@ class Test:
 				else:
 					print(nums[i], " frame: No amino acids found")
 				sequence  = sequence[1:]
-
 			else:
 				if i == 3:
 					print("\n")
@@ -111,8 +110,6 @@ class Test:
 				else:
 					print(nums[i], " frame: No amino acids found")
 				rsequence  = rsequence[1:]
-
-
 
 
 
