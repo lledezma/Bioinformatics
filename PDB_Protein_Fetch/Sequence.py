@@ -88,47 +88,29 @@ class Test:
 		return protein
 
 	def frames(self,sequence):  #QUESTION 5
-		rsequence = sequence
-		print("REGULAR SEQUENCE")
-		tsequence = self.translation(sequence)
-		if(tsequence == "" or tsequence == False):
-			print("1st frame:", "No amino acids found")
-		else:
-			print("1st frame:", tsequence)
-		sequence  = sequence[1:]
-		tsequence = self.translation(sequence)
-		if(tsequence == "" or tsequence == False):
-			print("2nd frame:", "No amino acids found")
-		else:
-			print("2nd frame:", tsequence)
-		sequence  = sequence[1:]
-		tsequence = self.translation(sequence)
-		if(tsequence == "" or tsequence == False):
-			print("3rd frame:", "No amino acids found")
-		else:
-			print("3rd frame:", tsequence)
-		print("\n")
+		rsequence = self.reverse(sequence)
+		nums = ["1st", "2nd", "3rd", "4th", "5th", "6th"]
+		for i in range(6):
+			if i < 3:
+				if i == 0:
+					print("REGULAR SEQUENCE")
+				tsequence = self.translation(sequence)
+				if(tsequence):
+					print( nums[i], " frame:", tsequence)
+				else:
+					print(nums[i], " frame: No amino acids found")
+				sequence  = sequence[1:]
 
-
-		rsequence = self.reverse(rsequence)
-		print("REVERSE SEQUENCE")
-		tsequence = self.translation(rsequence)
-		if(tsequence == "" or tsequence == False):
-			print("4th frame:", "No amino acids found")
-		else:
-			print("4th frame:", tsequence)
-		rsequence  = rsequence[1:]
-		tsequence = self.translation(rsequence)
-		if(tsequence == "" or tsequence == False):
-			print("5th frame:", "No amino acids found")
-		else:
-			print("5th frame:", tsequence)
-		rsequence  = rsequence[1:]
-		tsequence = self.translation(rsequence)
-		if(tsequence == "" or tsequence == False):
-			print("6th frame:", "No amino acids found")
-		else:
-			print("6th frame:", tsequence)
+			else:
+				if i == 3:
+					print("\n")
+					print("REVERSE SEQUENCE")
+				tsequence = self.translation(rsequence)
+				if(tsequence):
+					print( nums[i], " frame:", tsequence)
+				else:
+					print(nums[i], " frame: No amino acids found")
+				rsequence  = rsequence[1:]
 
 
 
@@ -140,4 +122,4 @@ test = Test()
 # print(test.reverse("GCAGTCA"))                       					   #QUESTION 2
 # print(test.transcription("GCAGTCA"))                  				   #QUESTION 3
 # print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))  #QUESTION 4
-test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
+# test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
