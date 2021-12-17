@@ -103,7 +103,7 @@ class Test:
 			else:
 				if i == 3:
 					print("\n")
-					print("REVERSE SEQUENCE")
+					print("REVERSED SEQUENCE")
 				tsequence = self.translation(rsequence)
 				if(tsequence):
 					print( nums[i], " frame:", tsequence)
