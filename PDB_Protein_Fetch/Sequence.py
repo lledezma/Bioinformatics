@@ -63,72 +63,75 @@ class Test:
 			("R" , ["CGU", "CGC", "CGA", "CGG", "AGA", "AGG"]),	#arginine
 			("G" , ["GGU", "GGC", "GGA", "GGG"]),				#glycine
 		]
-		if(self.transcription(sequence) == False):
-			print("No amino acids")
-			return False
-		else:
-			tsequence = self.transcription(sequence)
-		protein = []
-		n = len(tsequence)
-		n = math.floor(n/3)
-		if tsequence != "":
+		tsequence = self.transcription(sequence)
+		if tsequence != False and tsequence != "":
+			protein = ""
+			n = len(tsequence)
+			n = math.floor(n/3)
 			for y in range(n):
 				for j in codons_dict:
 					if (tsequence[(y*3):(y*3+3)]  == "AUG"):
-						protein.append('M') 
+						protein+='M'
 						break
 					elif('M' in protein):
 						if j[0] == "STOP":
 							if ( tsequence[(y*3):(y*3+3)] in j[1]):
-								protein = "".join(protein)
 								return protein
 						elif ( tsequence[(y*3):(y*3+3)] in j[1]):
-							protein.append(j[0])
+							protein+=j[0]
 							break
 					else:
 						continue
 		else:
 			print("No amino acids")
 			return False
-		protein = "".join(protein)
 		return protein
 
 	def frames(self,sequence):  #QUESTION 5
 		rsequence = sequence
 		print("REGULAR SEQUENCE")
-		if(self.translation(sequence) == ""):
+		tsequence = self.translation(sequence)
+		if(tsequence == "" or tsequence == False):
 			print("1st frame:", "No amino acids found")
 		else:
-			print("1st frame:", self.translation(sequence))
+			print("1st frame:", tsequence)
 		sequence  = sequence[1:]
-		if(self.translation(sequence) == ""):
+		tsequence = self.translation(sequence)
+		if(tsequence == "" or tsequence == False):
 			print("2nd frame:", "No amino acids found")
 		else:
-			print("2nd frame:", self.translation(sequence))
+			print("2nd frame:", tsequence)
 		sequence  = sequence[1:]
-		if(self.translation(sequence) == ""):
+		tsequence = self.translation(sequence)
+		if(tsequence == "" or tsequence == False):
 			print("3rd frame:", "No amino acids found")
 		else:
-			print("3rd frame:", self.translation(sequence))
+			print("3rd frame:", tsequence)
 		print("\n")
 
 
 		rsequence = self.reverse(rsequence)
 		print("REVERSE SEQUENCE")
-		if(self.translation(rsequence) == ""):
+		tsequence = self.translation(rsequence)
+		if(tsequence == "" or tsequence == False):
 			print("4th frame:", "No amino acids found")
 		else:
-			print("4th frame:", self.translation(rsequence))
+			print("4th frame:", tsequence)
 		rsequence  = rsequence[1:]
-		if(self.translation(rsequence) == ""):
+		tsequence = self.translation(rsequence)
+		if(tsequence == "" or tsequence == False):
 			print("5th frame:", "No amino acids found")
 		else:
-			print("5th frame:", self.translation(rsequence))
+			print("5th frame:", tsequence)
 		rsequence  = rsequence[1:]
-		if(self.translation(rsequence) == ""):
+		tsequence = self.translation(rsequence)
+		if(tsequence == "" or tsequence == False):
 			print("6th frame:", "No amino acids found")
 		else:
-			print("6th frame:", self.translation(rsequence))
+			print("6th frame:", tsequence)
+
+
+
 
 
 
@@ -137,4 +140,4 @@ test = Test()
 # print(test.reverse("GCAGTCA"))                       					   #QUESTION 2
 # print(test.transcription("GCAGTCA"))                  				   #QUESTION 3
 # print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))  #QUESTION 4
-# test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
+test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
