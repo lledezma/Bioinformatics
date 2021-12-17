@@ -19,7 +19,7 @@ class Test:
 		else:
 			n = len(sequence)
 			s = list(sequence)
-			for i in range(0,n):
+			for i in range(n):
 				if (s[i] == 'A'):
 					s[i] = 'T'
 				elif (s[i] == 'T'):
