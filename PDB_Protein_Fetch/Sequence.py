@@ -95,7 +95,6 @@ class Test:
 
 	def frames(self,sequence):  #QUESTION 5
 		rsequence = sequence
-
 		print("REGULAR SEQUENCE")
 		if(self.translation(sequence) == ""):
 			print("1st frame:", "No amino acids found")
@@ -111,8 +110,6 @@ class Test:
 			print("3rd frame:", "No amino acids found")
 		else:
 			print("3rd frame:", self.translation(sequence))
-
-
 		print("\n")
 
 
@@ -139,5 +136,5 @@ test = Test()
 # print(test.validate("GCAGTCA"))			            				   #QUESTION 1
 # print(test.reverse("GCAGTCA"))                       					   #QUESTION 2
 # print(test.transcription("GCAGTCA"))                  				   #QUESTION 3
-print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))  #QUESTION 4
+# print(test.translation("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA"))  #QUESTION 4
 # test.frames("AATGGCGCCGATATTATGACGGTCCTTCCTTGATGATAAGGTAA")  			   #QUESTION 5
