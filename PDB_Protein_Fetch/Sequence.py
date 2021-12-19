@@ -13,10 +13,7 @@ class Test:
 		return True
 
 	def reverse(self,sequence):		#QUESTION 2
-		if self.validate(sequence) == False:
-			print("sequence is not valid")
-			return False
-		else:
+		if self.validate(sequence):
 			n = len(sequence)
 			s = list(sequence)
 			for i in range(n):
@@ -28,9 +25,12 @@ class Test:
 					s[i] = 'G'
 				elif (s[i] == 'G'):
 					s[i] = 'C'
-		sequence = "".join(s)
-		sequence = sequence[::-1]
-		return sequence
+			sequence = "".join(s)
+			sequence = sequence[::-1]
+			return sequence
+		else:
+			print("sequence is not valid")
+			return False
 
 	def transcription(self,sequence):	#QUESTION 3
 		if self.validate(sequence):
