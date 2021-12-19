@@ -6,9 +6,9 @@ class Test:
 		pass
 
 	def validate(self,sequence):	#QUESTION 1
-		letters = ['A', 'G', 'C', 'T'];
+		base = ['A', 'G', 'C', 'T'];
 		for i in sequence:
-			if i not in letters:
+			if i not in base:
 				return False
 		return True
 
@@ -33,11 +33,11 @@ class Test:
 		return sequence
 
 	def transcription(self,sequence):	#QUESTION 3
-		if self.validate(sequence) == False:
+		if self.validate(sequence):
+			return sequence.replace('T','U')
+		else:
 			print("sequence is not valid")
 			return False
-		else:
-			return sequence.replace('T','U')
 
 	def translation(self,sequence): #QUESTION 4
 		codons_dict = [ 
