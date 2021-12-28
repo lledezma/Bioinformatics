@@ -235,7 +235,7 @@ class PDB:
                 else:
                     print("phi angle:",finalangle)
     # ////////////////////////////////////////////////////////////////////////////////////////////////
-            if angletype == 'psi':
+            elif angletype == 'psi':
                 # A1 = y1 ( z2 - z3 )     +      y2 ( z3 - z1 )         +    y3 ( z1 - z2 )
                 A1 =  N[1]*(CA[2]-C[2])   +      CA[1]*( C[2]-N[2] )    +   C[1]*(N[2]- CA[2])
                 # B1 = z1 ( x2 - x3 )     +      z2 (   x3 - x1 )       +    z3 ( x1 - x2 )
