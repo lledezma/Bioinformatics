@@ -97,9 +97,6 @@ class Test:
 				    Npsi.append(float(line[30:38].strip()))
 				    Npsi.append(float(line[38:46].strip()))
 				    Npsi.append(float(line[46:54].strip()))
-				    return self.get_torsion(Cphi, N, CA, C, Npsi, protein, aaNumber, chain, aaName)
-			else:
-				pass
 		return self.get_torsion(Cphi, N, CA, C, Npsi, protein, aaNumber, chain, aaName)
 
 	def get_torsion(self, Cphi, N, CA, C,Npsi, protein, aaNumber, chain, aaName):
@@ -151,7 +148,7 @@ class Test:
 			angle = (finalangle)
 		return angle
 
-	def get_psi_angle(self):
+	def get_psi_angle(self, N, CA, C, Npsi):
 		A1 = N[1]*(CA[2]-C[2])    + CA[1]*(C[2]-N[2])    + C[1]*(N[2]-CA[2])
 		B1 = N[2]*(CA[0]-C[0])    + CA[2]*(C[0]-N[0])    + C[2]*(N[0]-CA[0])
 		C1 = N[0]*(CA[1]-C[1])    + CA[0]*(C[1]-N[1])    + C[0]*(N[1]-CA[1])
