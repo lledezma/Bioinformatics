@@ -1,10 +1,10 @@
 import math
 
 
-class Scritp:
+class Script:
 
     def __init__(self):
-        print("")
+        pass
 
     def Blinking(self):
         number_of_blinks = input("Enter the number of blinks observed: ")
